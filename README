@@ -1,0 +1,8 @@
+Patulea Ionut
+CA313
+
+	Am rezolvat tema folosind un treap facut la laborator si modoficat putin si un trie cu
+o structura asemanatoare cu cea indicata in enunt.
+	Treap-ul este implementat ca la carte. Cu o diferenta gasirea celei de a k cheie se face invers 
+intrucat aveam nevoie ordinea inversa.
+	AM folosit pair iat punerea in treap este personalizata duna pair sa sorteze invers la la second/
